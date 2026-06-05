@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "Emon-chat-bot",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By Emon",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -19,20 +19,20 @@
   "keywords": [
     "bot",
     "facebook",
-    "shahadatproject",
+    "Emonproject",
     "messenger",
     "javascript",
-    "shadat",
+    "Emon",
     "ullash",
-    "shahadat sahu",
-    "shahadat chat bot"
+    "Emon",
+    "Emon chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "Emon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
+    "url": "https"
   },
-  "homepage": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues",
+  "homepage": "https://github.com/-CHAT-BOT/issues",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
