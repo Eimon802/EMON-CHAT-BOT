@@ -36,24 +36,23 @@ Main.refreshListen=Refreshed handleListener...
 Main.successConnectDatabase=Connected to database successfully!
 Main.failConnectDatabase=Failed to connect to database, error: %1
 
-Shahadat specific texts
-
-shahadat.foundPathAppstate=Found appstate.json path successfully
-shahadat.notFoundPathAppstate=Appstate.json not found or invalid!
-shahadat.errorFormat=Invalid module format detected!
-shahadat.nameExist=Module name already exists in the system!
-shahadat.notFoundLanguage=No language support found for module: %1
-shahadat.notFoundPackage=Required package %1 not found for module %2, installing now...
-shahadat.cantInstallPackage=Failed to install package %1 for module %2. Error: %3
-shahadat.loadedPackage=All dependencies loaded successfully for module %1
-shahadat.loadedConfig=Configuration loaded successfully for module %1
-shahadat.cantOnload=Failed to initialize module %1. Error: %2
-shahadat.successLoadModule=Module %1 loaded successfully
-shahadat.failLoadModule=Failed to load module %1. Error: %2
-shahadat.finishLoadModule=Successfully loaded %1 commands and %2 events
-shahadat.handleListenError=Listener encountered an error: %1
-shahadat.warningSourceCode=WARNING: Source code structure modified unexpectedly!
-shahadat.successConnectDatabase=Database connection established successfully
+Emon specific texts
+Emon.foundPathAppstate=Found appstate.json path successfully
+Emon.notFoundPathAppstate=Appstate.json not found or invalid!
+Emon.errorFormat=Invalid module format detected!
+Emon.nameExist=Module name already exists in the system!
+Emon.notFoundLanguage=No language support found for module: %1
+Emon.notFoundPackage=Required package %1 not found for module %2, installing now...
+Emon.cantInstallPackage=Failed to install package %1 for module %2. Error: %3
+Emon.loadedPackage=All dependencies loaded successfully for module %1
+Emon.loadedConfig=Configuration loaded successfully for module %1
+Emon.cantOnload=Failed to initialize module %1. Error: %2
+Emon.successLoadModule=Module %1 loaded successfully
+Emon.failLoadModule=Failed to load module %1. Error: %2
+Emon.finishLoadModule=Successfully loaded %1 commands and %2 events
+Emon.handleListenError=Listener encountered an error: %1
+Emon.warningSourceCode=WARNING: Source code structure modified unexpectedly!
+Emon.successConnectDatabase=Database connection established successfully
 
 includes/listen.js
 
